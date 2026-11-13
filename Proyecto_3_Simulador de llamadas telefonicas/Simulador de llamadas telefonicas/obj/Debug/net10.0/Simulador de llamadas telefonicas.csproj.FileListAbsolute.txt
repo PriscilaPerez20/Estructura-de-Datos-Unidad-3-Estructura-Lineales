@@ -1,0 +1,15 @@
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\bin\Debug\net10.0\Simulador de llamadas telefonicas.exe
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\bin\Debug\net10.0\Simulador de llamadas telefonicas.deps.json
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\bin\Debug\net10.0\Simulador de llamadas telefonicas.runtimeconfig.json
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\bin\Debug\net10.0\Simulador de llamadas telefonicas.dll
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\bin\Debug\net10.0\Simulador de llamadas telefonicas.pdb
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\Simulador de llamadas telefonicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\Simulador de llamadas telefonicas.AssemblyInfoInputs.cache
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\Simulador de llamadas telefonicas.AssemblyInfo.cs
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\Simulador de llamadas telefonicas.csproj.CoreCompileInputs.cache
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\Simulador de llamadas telefonicas.dll
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\refint\Simulador de llamadas telefonicas.dll
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\Simulador de llamadas telefonicas.pdb
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\Simulador de llamadas telefonicas.genruntimeconfig.cache
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\ref\Simulador de llamadas telefonicas.dll
+C:\Users\Bennys\OneDrive\Documentos\Unidad lll\Simulador de llamadas telefonicas\Simulador de llamadas telefonicas\obj\Debug\net10.0\Simulado.41DB9BAE.Up2Date
